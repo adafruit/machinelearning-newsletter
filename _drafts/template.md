@@ -2,7 +2,7 @@
 layout: post
 title: "Featured story title here!"
 date: 2019-11-02 07:00:00 -0800
-categories: weekly
+categories: monthly
 ---
 
 Feature story text here
