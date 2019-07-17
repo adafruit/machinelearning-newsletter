@@ -1,4 +1,4 @@
-## MakeCode Newsletter posts 
+## Newsletter posts 
 
 This directory contains newsletters that have already been posted. 
 
